@@ -4,10 +4,7 @@ Small chat app. Available functionalities: create or join a room, send and retri
 Socket.io and MongoDB used, without authentication.
 
 This project was generated with Node version 16.13.0.
-
-# Demo
-
-[Chat App Demo](https://macaw-chat-app.herokuapp.com/)
+ 
 
 ## Development server
 
